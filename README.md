@@ -1,5 +1,8 @@
-# S. Jason Humphrey Full-Stack Web Developer
-           
+
+# S. Jason Humphrey Full-Stack Web Developer  <img src="https://user-images.githubusercontent.com/81328683/121597070-de68f600-ca05-11eb-8556-15c0bb9f87d1.png" width="20%">
+
+
+
 I'm a graduate of **DigitalCrafts** **Full-Stack Web Developer** program. I currently reside in Nashville, TN. Have a look around and check out some repositories and links. Thanks for stopping by. Check out my website or drop me an Email: sjasonhumphrey@yahoo.com I'm going to get back to coding. 
 
 ## Skills
@@ -33,4 +36,6 @@ I'm a graduate of **DigitalCrafts** **Full-Stack Web Developer** program. I curr
 ### Some people see things that are and ask, Why? Some people dream of things that never were and ask, Why not? Some people have to go to work and don't have time for all that.<br>
 
  ### **-George Carlin-**
+ 
+  <img src="https://user-images.githubusercontent.com/81328683/121597882-d2c9ff00-ca06-11eb-8835-a6298fad7818.png" width="20%">
 
