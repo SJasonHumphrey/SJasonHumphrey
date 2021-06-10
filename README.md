@@ -27,3 +27,10 @@ I'm a graduate of **DigitalCrafts** **Full-Stack Web Developer** program. I curr
 
 **MyPyPlayer -** This an MP3 built totally with Python. It includes playlists and individual songs. It has button controls, volume control, and song skip. The technologies used include TKinter, Pygame, and Mutagen.<br>**Repo -** [GitHub](https://github.com/SJasonHumphrey/mypyplayer)<br> **Walk Through -** [MyPyPlayer](https://www.jasonhumphrey.io)<br>
 **Role -** Managed and created the entire project
+
+
+
+### Some people see things that are and ask, Why? Some people dream of things that never were and ask, Why not? Some people have to go to work and don't have time for all that.<br>
+
+ ### **-George Carlin-**
+
