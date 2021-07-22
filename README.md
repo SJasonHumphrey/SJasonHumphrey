@@ -31,7 +31,7 @@ I'm a graduate of **DigitalCrafts** **Full-Stack Web Developer** program. I curr
 **MyPyPlayer -** This an MP3 built totally with Python. It includes playlists and individual songs. It has button controls, volume control, and song skip. The technologies used include TKinter, Pygame, and Mutagen.<br>**Repo -** [GitHub](https://github.com/SJasonHumphrey/mypyplayer)<br> **Walk Through -** [MyPyPlayer](https://www.jasonhumphrey.io)<br>
 **Role -** Managed and created the entire project
 
-<p align="left"> <a href="https://twitter.com/jason_humphrey" target="blank"><img src="https://img.shields.io/twitter/follow/jason_humphrey?logo=twitter&style=for-the-badge" alt="jason_humphrey" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sjasonhumphrey&show_icons=true&locale=en" alt="sjasonhumphrey" /></p>
 
 - All of my projects are available at [www.https//:jasonhumphrey.io](www.https//:jasonhumphrey.io)
 
@@ -48,7 +48,7 @@ I'm a graduate of **DigitalCrafts** **Full-Stack Web Developer** program. I curr
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjasonhumphrey&show_icons=true&locale=en&layout=compact" alt="sjasonhumphrey" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sjasonhumphrey&show_icons=true&locale=en" alt="sjasonhumphrey" /></p>
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sjasonhumphrey&" alt="sjasonhumphrey" /></p>
