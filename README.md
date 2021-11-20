@@ -3,33 +3,42 @@
 
 
 
-I'm a graduate of **DigitalCrafts** **Full-Stack Web Developer** program. I currently reside in Nashville, TN. Have a look around and check out some repositories and links. Thanks for stopping by. Check out my website or drop me an Email: sjasonhumphrey@yahoo.com I'm going to get back to coding. 
+I'm a graduate of **DigitalCrafts** **Full-Stack Web Developer** program. I currently reside in Nashville, TN. I love developing, science, learning new things and reading. I enjoy expanding my knowledge and growing daily. Have a look around and check out some repositories and links. Thanks for stopping by. Check out my website or drop me an Email: sjasonhumphrey@yahoo.com I'm going to get back to coding. 
 
 ## Skills
 
 
  HTML | CSS | JavaScript | Nodejs | Expressjs | React | Python | AWS | PostgreSQL | Bootstrap | Git | Github | Visual Studio Code
 
-
-
 ## Projects
+
+**E-Commerce** - is a full-stack application that uses  React, Redux, GraphQL, Sass and Firebase. It also uses the Stripe API for online purchasing. It is a fictional site for a high-end music retailer.<br>
+**Repo -** [GitHub](https://github.com/SJasonHumphrey/my-store)<br>
+**Live Demo -** [The Low End](https://the-low-end.netlify.app/)<br>
+**Role -** Managed and created the entire project.
+
+**Coding Buddy** - This is a full-stack MERN project. It uses MongoDB and local storage throughout the project. It was designed to be a resource for new developers. It has a typing tutor, technical quiz, flashcards, codepen and developer resource links. It uses one API for the technical trivia questions.<br>
+**Repo -** [GitHub](https://github.com/SJasonHumphrey/mern-capstone)<br>
+**Live Demo -** [CodingBuddy](https://www.coding-buddy.club/)<br>
+**Role -** Created the Codepen, flashcards and quiz features for this project.
+
+**Monster Match** - Is a small app built using React and CSS. It is based on the classic card game Memory. The cards feature the familiar faces of the best known Universal Monsters. Great to play with your friends and family.<br>
+**Repo -** [GitHub](https://github.com/SJasonHumphrey/monster_match)<br>
+**Live Demo -** [Monster Match](https://dreamy-curran-6e407a.netlify.app/)<br> 
+**Role -** Managed and created the entire project
 
 **Finding Streamo** - is an app that provides the user with information on movies. It will show if a movie is streaming and which service it can currently be seen on. The pages are created dynamically in JavaScript. The OMDB API was used. The technologies for this project include HTML, CSS, and Vanilla JavaScript.<br>
 **Repo -** [GitHub](https://github.com/SJasonHumphrey/FindingStreamo)<br>
 **Live Demo -** [FindingStreamo](https://findingstream.netlify.app)<br>
-**Role -** Created the page dynamically with JavaScript, CSS and set up the API calls.
+**Role -** Created the page dynamically with JavaScript, CSS and set up the API calls.<br>
 
-**Weather Lab -** is an app that upon loading gives the current user their temperature by geolocation. It uses two weather APIs searching to give the complete forecast. You can also switch between Fahrenheit and Celsius. It also allows you to search the weather of a location given by the user. The Technologies for this project include HTML, CSS, JavaScript, and Bootstrap.<br> **Repo -** [GitHub](https://github.com/SJasonHumphrey/Weather_app)<br>
-**Live Demo -** [WeatherLab](https://weatherlaboratory.io)<br> 
-**Role -** Managed and created the entire project
+## New Projects Coming Soon...
 
-**Band Website -** This a full-stack web application. It has a photo and bio page, chat room, discography, and message board. The technologies involved include Nodejs, Expressjs, EJS, Socket.io, HTML, CSS, Bootstrap, and Javascript.<br>
-**Repo -** [GitHub](https://github.com/SJasonHumphrey/musicApp)<br>
-**Live Demo -** [Band Website](https://still-reaches-10583.herokuapp.com/)<br>
-**Role -** Managed and created the entire project
 
-**MyPyPlayer -** This an MP3 built totally with Python. It includes playlists and individual songs. It has button controls, volume control, and song skip. The technologies used include TKinter, Pygame, and Mutagen.<br>**Repo -** [GitHub](https://github.com/SJasonHumphrey/mypyplayer)<br> **Walk Through -** [MyPyPlayer](https://www.jasonhumphrey.io)<br>
-**Role -** Managed and created the entire project
+
+
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sjasonhumphrey&show_icons=true&locale=en" alt="sjasonhumphrey" /></p>
 
