@@ -3,7 +3,7 @@
 
 
 
-I'm a graduate of **DigitalCrafts** **Full-Stack Web Developer** program. I currently reside in Nashville, TN. I love developing, science, learning new things and reading. I enjoy expanding my knowledge and growing daily. Have a look around and check out some repositories and links. Thanks for stopping by. Check out my website or drop me an Email: sjasonhumphrey@yahoo.com I'm going to get back to coding. 
+I'm a graduate of **DigitalCrafts** **Full-Stack Web Developer** program. I currently reside in Nashville, TN. I love developing, science, learning new things and reading. I enjoy expanding my knowledge and growing daily. Have a look around and check out some repositories and links. Thanks for stopping by. Check out my website [Here](https://jasonhumphrey.io) or drop me an Email: sjasonhumphrey@yahoo.com I'm going to get back to coding. 
 
 ## Skills
 
@@ -17,12 +17,12 @@ I'm a graduate of **DigitalCrafts** **Full-Stack Web Developer** program. I curr
 **Live Demo -** [The Low End](https://the-low-end.netlify.app/)<br>
 **Role -** Managed and created the entire project.
 
-**Coding Buddy** - This is a full-stack MERN project. It uses MongoDB and local storage throughout the project. It was designed to be a resource for new developers. It has a typing tutor, technical quiz, flashcards, codepen and developer resource links. It uses one API for the technical trivia questions.<br>
+**Coding Buddy** - is a full-stack MERN project. It uses MongoDB and local storage throughout the project. It was designed to be a resource for new developers. It has a typing tutor, technical quiz, flashcards, codepen and developer resource links. It uses one API for the technical trivia questions.<br>
 **Repo -** [GitHub](https://github.com/SJasonHumphrey/mern-capstone)<br>
 **Live Demo -** [CodingBuddy](https://www.coding-buddy.club/)<br>
-**Role -** Created the Codepen, flashcards and quiz features for this project.
+**Role -** Created the CodePen, flashcards and quiz features for this project.
 
-**Monster Match** - Is a small app built using React and CSS. It is based on the classic card game Memory. The cards feature the familiar faces of the best known Universal Monsters. Great to play with your friends and family.<br>
+**Monster Match** - is a small app built using React and CSS. It is based on the classic card game Memory. The cards feature the familiar faces of the best known Universal Monsters. Great to play with your friends and family.<br>
 **Repo -** [GitHub](https://github.com/SJasonHumphrey/monster_match)<br>
 **Live Demo -** [Monster Match](https://dreamy-curran-6e407a.netlify.app/)<br> 
 **Role -** Managed and created the entire project
@@ -42,7 +42,6 @@ I'm a graduate of **DigitalCrafts** **Full-Stack Web Developer** program. I curr
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sjasonhumphrey&show_icons=true&locale=en" alt="sjasonhumphrey" /></p>
 
-- All of my projects are available at [www.https//:jasonhumphrey.io](www.https//:jasonhumphrey.io)
 
 
 <h3 align="left">Connect with me:</h3>
