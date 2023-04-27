@@ -3,7 +3,7 @@
 
 
 
-I'm a graduate of **DigitalCrafts** **Full-Stack Web Developer** program. I currently reside in Atlanta, GA. I love developing, science, learning new things and reading. I enjoy expanding my knowledge and growing daily. Have a look around and check out some repositories and links. Thanks for stopping by. Check out my website [Here](https://jasonhumphrey.io) or drop me an Email: sjasonhumphrey@yahoo.com I'm going to get back to coding. 
+I'm a graduate of **DigitalCrafts** **Full-Stack Web Developer** program. I currently reside in Nashville,TN. I love developing, science, learning new things and reading. I enjoy expanding my knowledge and growing daily. Have a look around and check out some repositories and links. Thanks for stopping by. Check out my website [Here](https://jasonhumphrey.io) or drop me an Email: sjasonhumphrey@yahoo.com I'm going to get back to coding. 
 
 ## Skills
 
